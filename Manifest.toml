@@ -2,6 +2,7 @@
 
 julia_version = "1.8.0"
 manifest_format = "2.0"
+<<<<<<< Updated upstream
 project_hash = "392a22dd7d3d565f1395e6624b9d8f4f76c3fccb"
 
 [[deps.ArgTools]]
@@ -1070,3 +1071,8 @@ deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg", "Wayland_jll", "Wayland_prot
 git-tree-sha1 = "9ebfc140cc56e8c2156a15ceac2f0302e327ac0a"
 uuid = "d8fb68d0-12a3-5cfd-a85a-d49703b185fd"
 version = "1.4.1+0"
+=======
+project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+
+[deps]
+>>>>>>> Stashed changes
